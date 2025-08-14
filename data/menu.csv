@@ -1,0 +1,26 @@
+name,category,price,gst_percent
+Pizza,Main Course,250,5
+Burger,Snacks,120,5
+Pasta,Main Course,200,5
+Coke,Beverage,40,0
+Ice Cream,Dessert,80,5
+Veg Sandwich,Snacks,90,5
+French Fries,Snacks,70,5
+Chicken Biryani,Main Course,300,5
+Veg Biryani,Main Course,250,5
+Fried Rice,Main Course,180,5
+Manchurian,Main Course,220,5
+Tea,Beverage,20,0
+Coffee,Beverage,30,0
+Lassi,Beverage,50,0
+Brownie,Dessert,100,5
+Gulab Jamun,Dessert,60,5
+Paneer Butter Masala,Main Course,280,5
+Dal Tadka,Main Course,150,5
+Chapati,Bread,15,0
+Butter Naan,Bread,25,0
+Garlic Naan,Bread,30,0
+Samosa,Snacks,25,5
+Spring Roll,Snacks,80,5
+Milkshake,Beverage,90,0
+Falooda,Dessert,120,5
